@@ -22,5 +22,7 @@ actual idea:
    - have to avoid lots of things in the way
    - isometric design
    - 3 types of doggo, with different stats
+   - inspriation is paper boy
 
-   - crosy road style
+   - crossy road style
+   - same mechanics as it
