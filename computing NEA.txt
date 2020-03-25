@@ -9,21 +9,23 @@ NEA ideas:
    - colour sandbox, puzzle
    - ultra modern procedrially generated city survival
    - sun burns everything, strategy to block the sun, moon revives everything, puzzle, portal style, character is a ghoul
-   - jackbox rippoff
+   - jackbox style of game
    - shop manager
    - character is a coronavirus, infect the world from first/thrid person perspective
    - kill off the world using whatever user can think off, similar to plague inc
    - - doggo game!
-   - cube rotating tiles game - ignore this one
+   - cube rotating tiles game 
 
 
 actual idea:
    - doggo gaame
    - have to avoid lots of things in the way
    - isometric design (ish)
+   - 3 types of doggo, with different stats:- big: burnese mountain dog, medium: siberian husky, smol: Papillon, after game extra: whippet. 
+   - stats are: movement, swimming abiltiy, obidience
 
-     - 3 types of doggo, with different stats
      - inspriation is paper boy
   
      - crossy road style
      - same mechanics as it
+     - procedrially generated
