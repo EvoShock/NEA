@@ -21,4 +21,4 @@ actual idea:
    - doggo gaame
    - have to avoid lots of things in the way
    - isometric design
-   - 
+   - 3 types of doggo, with different stats
