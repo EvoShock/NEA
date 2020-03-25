@@ -18,13 +18,16 @@ NEA ideas:
 
 
 actual idea:
-   - doggo gaame
+   - dog distraction game
    - have to avoid lots of things in the way
    - isometric design (ish)
    - 3 types of doggo, with different stats:- big: burnese mountain dog, medium: siberian husky, smol: Papillon, after game extra: whippet. 
    - stats are: movement, swimming abiltiy, obidience
+   - each of the dogs gets distracted by other things in the level, the player's aim is to avoid these things. the more the player does what the owner says to, the less they get distracted by every scent around.
+   - multiplayer so that the players are getting distracted by the other players
 
      - inspriation is paper boy
+     - more retro style
   
      - crossy road style
      - same mechanics as it
